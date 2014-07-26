@@ -19,6 +19,8 @@ $ tree -d
 
 ## Configuration
 
+Edit config.php
+
 ``` php
 // Change
 $config['site_title'] = 'your site title';
