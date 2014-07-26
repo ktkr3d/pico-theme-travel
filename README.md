@@ -19,7 +19,7 @@ $ tree -d
 
 ## Configuration
 
-``` php config.php
+``` php
 // Change
 $config['site_title'] = 'your site title';
 $config['theme'] = 'pico-theme-travel';
